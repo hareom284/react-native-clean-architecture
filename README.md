@@ -1729,4 +1729,3 @@ export const todoModuleContainer = getModuleContainer(TodoModule);
 | **Domain Services** | Password hashing, token validation, todo enrichment |
 | **Application Services** | Validation, filtering, calculations |
 
-This is your **complete, production-ready** authentication + todo example! 🚀
